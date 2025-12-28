@@ -4,7 +4,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=abdullahahmadd&repo=retail-sales-data-warehouse&color=blue)
 ![SQL](https://img.shields.io/badge/SQL-orange)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
-![Data Warehouse](https://img.shields.io/badge/Data-Warehouse-success)
+![Data Warehouse](https://img.shields.io/badge/DataWarehouse-success)
 
 ---
 
