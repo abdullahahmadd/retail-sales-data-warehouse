@@ -2,8 +2,8 @@
 ### 🎓 IBM Data Engineering Specialization – Portfolio Project
 
 ![Visitors](https://komarev.com/ghpvc/?username=abdullahahmadd&repo=retail-sales-data-warehouse&color=blue)
-![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![SQL](https://img.shields.io/badge/SQL-orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 ![Data Warehouse](https://img.shields.io/badge/Data-Warehouse-success)
 
 ---
