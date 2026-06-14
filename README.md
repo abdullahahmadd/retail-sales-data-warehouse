@@ -1,4 +1,4 @@
-# 🏬 Retail Sales Data Warehouse
+# 🏬 Retail Sales Data Warehouse (PostgreSQL)
 ### 🎓 IBM Data Engineering Specialization – Portfolio Project
 
 ![Visitors](https://komarev.com/ghpvc/?username=abdullahahmadd&repo=retail-sales-data-warehouse&color=blue)
